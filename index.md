@@ -1,38 +1,39 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: "MouseHelper: Tu asistente para el ratÃ³n"
 ---
 
-### Tu asistente para el ratón
 
- *Mouse Helper* es un programa gratuito que te ayudará a mejorar el manejo con el ratón.  
+### Tu asistente para el ratÃ³n
 
-* <span >[Qué es y cómo funciona](#features)</span>  
-        Aprende lo que Mouse Helper puede hacer por tí.
+ *Mouse Helper* es un programa gratuito que te ayudarÃ¡ a mejorar el manejo con el ratÃ³n.  
+
+* <span >[QuÃ© es y cÃ³mo funciona](#features)</span>  
+        Aprende lo que Mouse Helper puede hacer por tÃ­.
 * <span >[Descarga Mouse Helper](#descarga)</span>  
-        Obtén la última versión de Mouse Helper.
+        ObtÃ©n la Ãºltima versiÃ³n de Mouse Helper.
 * <span >[Licencia de uso](#licencia)</span>  
-        Informaté de cuando puedes utilizar Mouse Helper
+        InformatÃ© de cuando puedes utilizar Mouse Helper
 * <span >[Contacta](#contacta)</span>  
         Contacta con el autor del programa.
-* <span >[Haz una aportación económica a una asociación](#dona)</span>  
+* <span >[Haz una aportaciÃ³n econÃ³mica a una asociaciÃ³n](#dona)</span>  
         Haz tu donativo si Mouse Helper te gusta.
 * <span >[Agradecimientos y atribuciones](#agradecimientos)</span>
 
-## <a name="features"></a><b><i>Qué es y cómo funciona:</i></b>
+## <a name="features"></a><b><i>QuÃ© es y cÃ³mo funciona:</i></b>
 
 Me llamo Antonio Liberal, soy desarrollador de software y tengo Parkinson
-      desde hace unos cuantos años, por lo que he creado Mouse Helper para
-      mejorar la estabilidad del ratón cuando mi mano tiembla.
+      desde hace unos cuantos aÃ±os, por lo que he creado Mouse Helper para
+      mejorar la estabilidad del ratÃ³n cuando mi mano tiembla.
 
 Como cualquier otro parkinsoniano, los mayores problemas con los que nos
-      encontramos al manejarnos con el ratón son:
+      encontramos al manejarnos con el ratÃ³n son:
 
-* Necesitamos reducir su velocidad para poder hacer tareas de precisión, como cambiar el ancho de una columna.
+* Necesitamos reducir su velocidad para poder hacer tareas de precisiÃ³n, como cambiar el ancho de una columna.
 * Como los dedos tiemblan, a veces hacemos clic de manera involuntaria.
 * Con frecuencia las operaciones de arrastre (drag &amp; drop) son un suplicio. Muchas veces arrastramos involuntariamente un archivo en una carpeta.
 
-Aunque no tengas la enfermedad, este programa también puede ser útil para tí: Pruebálo y si te gusta, haz un donativo a cualquier asociación (si es de Parkinson, mejor... ) 
+Aunque no tengas la enfermedad, este programa tambiÃ©n puede ser Ãºtil para tÃ­: PruebÃ¡lo y si te gusta, haz un donativo a cualquier asociaciÃ³n (si es de Parkinson, mejor... ) 
 
 
 ## <a name="descarga"></a><b><i>Descarga Mouse Helper:</i></b>
@@ -41,17 +42,17 @@ Puedes descargar Mouse Helper haciendo clic en este [enlace](download.html)
 
 ## <a name="licencia"></a><b><i>Licencia de uso:</i></b>
 
-Excepto donde se indique lo contrario, toda la documentación y el software incluidos en Mouse Helper es propiedad intelectual de Antonio Liberal.
+Excepto donde se indique lo contrario, toda la documentaciÃ³n y el software incluidos en Mouse Helper es propiedad intelectual de Antonio Liberal.
 
-Este software se proporciona "tal cual", sin ninguna garantía expresa o implícita. En ningún caso el autor será&nbsp; responsable de los daños derivados del uso de este software.
+Este software se proporciona "tal cual", sin ninguna garantÃ­a expresa o implÃ­cita. En ningÃºn caso el autor serÃ¡&nbsp; responsable de los daÃ±os derivados del uso de este software.
 
- Se otorga permiso a cualquier persona para usar este software para cualquier propósito, incluidos los comerciales, y para redistribuirlo libremente, mientras no se altere su formato binario.
+ Se otorga permiso a cualquier persona para usar este software para cualquier propÃ³sito, incluidos los comerciales, y para redistribuirlo libremente, mientras no se altere su formato binario.
 
 Copyright (C) 2020 Antonio Liberal. Todos los derechos reservados.
 
 ## <a name="contacta"></a><b><i>Contacta conmigo:</i></b>
 
-Puedes contactar conmigo a través de los siguientes medios:
+Puedes contactar conmigo a travÃ©s de los siguientes medios:
 
 * e-mail: [mousehelper@outlook.es](mailto:mousehelper@outlook.es)
   
@@ -59,21 +60,21 @@ Puedes contactar conmigo a través de los siguientes medios:
 
 * Twitter: [@mouse_helper](https://twitter.com/mouse_helper)
 
-Estaré encantado de resolver tus dudas y de aceptar tus sugerencias.
+EstarÃ© encantado de resolver tus dudas y de aceptar tus sugerencias.
 
-También puedes leer [el diario de un parkinsoniano](https://diariodeunparkinsoniano.wordpress.com/)
+TambiÃ©n puedes leer [el diario de un parkinsoniano](https://diariodeunparkinsoniano.wordpress.com/)
 
-## <a name="dona"></a><b><i>Dona a una asociación:</i></b>
+## <a name="dona"></a><b><i>Dona a una asociaciÃ³n:</i></b>
 
-Este programa es de libre ejecución y distribución, pero puedes aportar un donativo a cualquier asociación de ayuda si te apetece.
+Este programa es de libre ejecuciÃ³n y distribuciÃ³n, pero puedes aportar un donativo a cualquier asociaciÃ³n de ayuda si te apetece.
 
-Te recomiendo que lo hagas en una Asociación de Parkinson, como [ANAPAR](http://www.anapar.org/) o la [Federación de Parkinson](https://www.esparkinson.es/):
+Te recomiendo que lo hagas en una AsociaciÃ³n de Parkinson, como [ANAPAR](http://www.anapar.org/) o la [FederaciÃ³n de Parkinson](https://www.esparkinson.es/):
 
 <a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://clssystem.github.io/MouseHelperWeb/assets/images/donativo.png"></a>      
 
 ## <a name="agradecimientos"></a><b><i>Agradecimientos y atribuciones</i></b>
 
-Todos los iconos de está aplicación se han obtenido de [www.flaticon.com](https://www.flaticon.com/ "Flaticon"), realizados por [Freepik](https://www.flaticon.com/authors/freepik "Freepik") y [smalllikeart](https://www.flaticon.es/autores/smalllikeart "smalllikeart")
+Todos los iconos de estÃ¡ aplicaciÃ³n se han obtenido de [www.flaticon.com](https://www.flaticon.com/ "Flaticon"), realizados por [Freepik](https://www.flaticon.com/authors/freepik "Freepik") y [smalllikeart](https://www.flaticon.es/autores/smalllikeart "smalllikeart")
 
-Agradecimientos especiales para Jesús Chocarro por sus esfuerzos parkinsonianos al probar la herramienta, y para "Serpis72" por su bautizo de beta tester con esta aplicación
+Agradecimientos especiales para JesÃºs Chocarro por sus esfuerzos parkinsonianos al probar la herramienta, y para "Serpis72" por su bautizo de beta tester con esta aplicaciÃ³n
 
