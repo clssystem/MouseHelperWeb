@@ -1,9 +1,7 @@
 ---
 layout: page
+title: "Página de Descargas"
 ---
-
-### Página de Descargas
-
 Desde este [enlace](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/Setup.exe) puedes descargar la última version.
 
 

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "MouseHelper: Tu asistente para el ratón"
+title: "Tu asistente para el ratón"
 ---
-
  *Mouse Helper* es un programa gratuito que te ayudará a mejorar el manejo con el ratón.  
 
 * <span >[Qué es y cómo funciona](#features)</span>  
