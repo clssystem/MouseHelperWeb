@@ -1,109 +1,80 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: "MouseHelper: Tu asistente para el ratón"
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+### Tu asistente para el ratón
 
-## Setup Guide
+ *Mouse Helper* es un programa gratuito que te ayudará a mejorar el manejo con el ratón.  
 
-### Create a repository from this template
+* <span >[Qué es y cómo funciona](#features)</span>  
+        Aprende lo que Mouse Helper puede hacer por tí.
+* <span >[Descarga Mouse Helper](#descarga)</span>  
+        Obtén la última versión de Mouse Helper.
+* <span >[Licencia de uso](#licencia)</span>  
+        Informaté de cuando puedes utilizar Mouse Helper
+* <span >[Contacta](#contacta)</span>  
+        Contacta con el autor del programa.
+* <span >[Haz una aportación económica a una asociación](#dona)</span>  
+        Haz tu donativo si Mouse Helper te gusta.
+* <span >[Agradecimientos y atribuciones](#agradecimientos)</span>
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
+## <a name="features"></a><b><i>Qué es y cómo funciona:</i></b>
 
-### Choose a name for your repository
+Me llamo Antonio Liberal, soy desarrollador de software y tengo Parkinson
+      desde hace unos cuantos años, por lo que he creado Mouse Helper para
+      mejorar la estabilidad del ratón cuando mi mano tiembla.
 
-Here we have two possibilities:
+Como cualquier otro parkinsoniano, los mayores problemas con los que nos
+      encontramos al manejarnos con el ratón son:
 
-* **You want a user or organization website**
+* Necesitamos reducir su velocidad para poder hacer tareas de precisión, como cambiar el ancho de una columna.
+* Como los dedos tiemblan, a veces hacemos clic de manera involuntaria.
+* Con frecuencia las operaciones de arrastre (drag &amp; drop) son un suplicio. Muchas veces arrastramos involuntariamente un archivo en una carpeta.
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+Aunque no tengas la enfermedad, este programa también puede ser útil para tí: Pruebálo y si te gusta, haz un donativo a cualquier asociación (si es de Parkinson, mejor... ) 
 
-  Choose the repository name `<your username>.github.io`.
 
-* **You want a project website**
+## <a name="descarga"></a><b><i>Descarga Mouse Helper:</i></b>
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+Puedes descargar Mouse Helper haciendo clic en este [enlace](download.html)
 
-  Choose the repository name `<whatever you want>`.
+## <a name="licencia"></a><b><i>Licencia de uso:</i></b>
 
-### Activate Github Pages on your repository
+Excepto donde se indique lo contrario, toda la documentación y el software incluidos en Mouse Helper es propiedad intelectual de Antonio Liberal.
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+Este software se proporciona "tal cual", sin ninguna garantía expresa o implícita. En ningún caso el autor será&nbsp; responsable de los daños derivados del uso de este software.
 
-### That's it
+ Se otorga permiso a cualquier persona para usar este software para cualquier propósito, incluidos los comerciales, y para redistribuirlo libremente, mientras no se altere su formato binario.
 
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+Copyright (C) 2020 Antonio Liberal. Todos los derechos reservados.
 
-## Customization Guide
+## <a name="contacta"></a><b><i>Contacta conmigo:</i></b>
 
-### Modify the configuration
+Puedes contactar conmigo a través de los siguientes medios:
 
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+* e-mail: [mousehelper@outlook.es](mailto:mousehelper@outlook.es)
+  
+* Facebook: [ClsSystemMouseHelper](https://www.facebook.com/ClsSystemMouseHelper/)
 
-### Change your theme
+* Twitter: [@mouse_helper](https://twitter.com/mouse_helper)
 
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
+Estaré encantado de resolver tus dudas y de aceptar tus sugerencias.
 
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
+También puedes leer [el diario de un parkinsoniano](https://diariodeunparkinsoniano.wordpress.com/)
 
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
+## <a name="dona"></a><b><i>Dona a una asociación:</i></b>
 
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
+Este programa es de libre ejecución y distribución, pero puedes aportar un donativo a cualquier asociación de ayuda si te apetece.
 
-That's it, you now have a totally different appearance for you website.
+Te recomiendo que lo hagas en una Asociación de Parkinson, como [ANAPAR](http://www.anapar.org/) o la [Federación de Parkinson](https://www.esparkinson.es/):
 
-### Modify the content
+<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://clssystem.github.io/MouseHelperWeb/assets/images/donativo.png"></a>      
 
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
+## <a name="agradecimientos"></a><b><i>Agradecimientos y atribuciones</i></b>
 
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
+Todos los iconos de está aplicación se han obtenido de [www.flaticon.com](https://www.flaticon.com/ "Flaticon"), realizados por [Freepik](https://www.flaticon.com/authors/freepik "Freepik") y [smalllikeart](https://www.flaticon.es/autores/smalllikeart "smalllikeart")
 
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-
-[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [colemannick.github.io](https://colemannick.github.io/)
-* [Betty and the Blushtones](http://bettyandtheblushtones.co.uk/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-
-## Other Github Pages related projects
-
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
-
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
+Agradecimientos especiales para Jesús Chocarro por sus esfuerzos parkinsonianos al probar la herramienta, y para "Serpis72" por su bautizo de beta tester con esta aplicación
 
