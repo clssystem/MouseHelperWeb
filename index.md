@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "MouseHelper: Tu asistente para el ratón"
+title: Bootstrap 4 Github Pages
 ---
-
 
 ### Tu asistente para el ratón
 
