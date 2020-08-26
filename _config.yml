@@ -8,7 +8,7 @@ lang: es_ES
 description: "Un software de ayuda creado por ClsSystem para mejorar el manejo del mouse en Windows, para personas con discapacidad motora como la enfermedad de Parkinson"
 tagline: "Un software de ayuda creado por ClsSystem para mejorar el manejo del mouse en Windows, para personas con discapacidad motora como la enfermedad de Parkinson"
 twittter:
-    uername: mouse_helper
+    username: mouse_helper
 social:
   name: MouseHelper
   links:
