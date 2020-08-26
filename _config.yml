@@ -13,21 +13,41 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
-email: ""
-description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+#title: Mouse Helper
+#email: "mousehelper@outlook.es"
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Tu asistente para el ratón
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+#repository: "nicolas-van/bootstrap-4-github-pages"
 
 # Build settings
+
+url: "https://clssystem.github.io/MouseHelperWeb"
+image: https://clssystem.github.io/MouseHelperWeb/assets/images/MouseHelper.png
+logo: https://clssystem.github.io/MouseHelperWeb/assets/images/MouseHelper.png
+title: "MouseHelper"
+email: "mousehelper@outlook.es"
+lang: es_ES
+description: "Un software de ayuda creado por ClsSystem para mejorar el manejo del mouse en Windows, para personas con discapacidad motora como la enfermedad de Parkinson"
+tagline: "Un software de ayuda creado por ClsSystem para mejorar el manejo del mouse en Windows, para personas con discapacidad motora como la enfermedad de Parkinson"
+twittter:
+    uername: mouse_helper
+social:
+  name: MouseHelper
+  links:
+    - https://twitter.com/mouse_helper
+    - https://www.facebook.com/ClsSystemMouseHelper
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
+
+google_analytics: UA-175471186-1
 
 # A list of the pages to display in the navigation bar
 header_pages:
