@@ -1,9 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
         <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">
-            <img src="https://clssystem.github.io/MouseHelperWeb/assets/images/MouseHelper.png" width="78" height="78" alt="Mouse Helper" class="d-inline-block align-middle mr-2" />
-            <img src="https://clssystem.github.io/MouseHelperWeb/assets/images/byClsSystem.png" width="108" height="32" alt="Mouse Helper" class="d-inline-block align-bottom mr-2">
-            {{ site.title | escape }}
+            <img src="/assets/images/MouseHelper.png" alt="MouseHelper" class="d-inline-block align-middle mr-2" />
         </a>
 
         {%- assign page_paths = site.header_pages -%}
@@ -21,9 +19,9 @@
                 </li>
                 {%- endif -%}
                 {% endfor -%}
-                <li class="nav-item">
+                <!--<li class="nav-item">
                     <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
-                </li>
+                </li>-->
             </ul>
         </div>
     </div>
