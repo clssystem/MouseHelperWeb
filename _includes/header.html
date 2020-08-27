@@ -119,30 +119,5 @@
     
                         </li>
                     </ul>        
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="flag-icon flag-icon-es"> </span> Español</a>
-        <div class="dropdown-menu" aria-labelledby="dropdown09">
-            <a class="dropdown-item" href="https://clssystem.github.io/MouseHelperWeb/"><span class="flag-icon flag-icon-es"> </span>  Español</a>
-            <a class="dropdown-item" href="https://clssystem.github.io/MouseHelperWeb/EU"><span class="flag-icon flag-icon-eu"> </span>  Euskara</a>
-        </div>
-        {%- assign page_paths = site.header_pages -%}
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                {%- for path in page_paths -%}
-                {%- assign my_page = site.pages | where: "path", path | first -%}
-                {%- if my_page.title -%}
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-                </li>
-                {%- endif -%}
-                {% endfor -%}
-                <!--<li class="nav-item">
-                <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
-            </li>-->
-            </ul>
-        </div>
     </div>
 </nav>
