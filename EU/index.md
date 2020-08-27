@@ -19,7 +19,7 @@ tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate b
         Egin zure dohaintza Mouse Helper nahi baduzu.
 * <span >[Eskerrak eta eginkizunak](#agradecimientos)</span>
 
-## <a name="features"></a><b><i>Zer da eta nola funtzionatzen duen:</i></b>
+### <a name="features"></a><b><i>Zer da eta nola funtzionatzen duen:</i></b>
 
 Nire izena Antonio Liberal da, software garatzailea naiz eta urte batzuk daramatzat Parkinsona, beraz, saguaren egonkortasuna hobetzeko Mouse Helper sortu nuen nire eskua astinduz gero.
 
@@ -32,11 +32,11 @@ Parkinsoniako beste edozein bezala, saguarekin topatzen ditugun arazo handienak 
 Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: probatu eta nahi baduzu, egin dohaintza edozein elkarteri (Parkinsona bada, hobe ...)
 
 
-## <a name="descarga"></a><b><i>Deskargatu Mouse Helper:</i></b>
+### <a name="descarga"></a><b><i>Deskargatu Mouse Helper:</i></b>
 
 [Esteka](download.html) hau klikatuz Mouse Helper deskarga dezakezu
 
-## <a name="licencia"></a><b><i>Lizentzia:</i></b>
+### <a name="licencia"></a><b><i>Lizentzia:</i></b>
 
 Bestela adierazi ezean, Mouse Helper-en sartutako dokumentazio eta software guztia Antonio Liberal-en jabetza intelektuala da.
 
@@ -46,7 +46,7 @@ Baimena ematen zaio edonori softwarea erabiltzeko edozein helburuetarako, helbur
 
 Copyright (C) 2020 Antonio Liberal. Eskubide guztiak erreserbatuak.
 
-## <a name="contacta"></a><b><i>Jar zaitez nirekin harremanetan:</i></b>
+### <a name="contacta"></a><b><i>Jar zaitez nirekin harremanetan:</i></b>
 
 Nirekin harremanetan jar zaitezke ondorengo bideen bidez:
 
@@ -60,7 +60,7 @@ Pozik egongo naiz zure galderei erantzuteko eta zure iradokizunak onartzeko.
 
 [Parkinsoniako egunkaria](https://diariodeunparkinsoniano.wordpress.com/) ere irakur dezakezu
 
-## <a name="dona"></a><b><i>Elkarte bati eman:</i></b>
+### <a name="dona"></a><b><i>Elkarte bati eman:</i></b>
 
 Programa hau doakoa izan daiteke exekutatu eta banatzeko, baina nahi baduzu, dohaintza bat egin diezaiokezu elkarte guztiei.
 
@@ -68,7 +68,7 @@ Parkinsonen Elkartean, esaterako, [ANAPAR](http://www.anapar.org/) edo [Parkinso
 
 <a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://clssystem.github.io/MouseHelperWeb/assets/images/donativo.png"></a>      
 
-## <a name="agradecimientos"></a><b><i>Eskerrak eta eginkizunak</i></b>
+### <a name="agradecimientos"></a><b><i>Eskerrak eta eginkizunak</i></b>
 
 Aplikazio honetako ikono guztiak [www.flaticon.com-en](https://www.flaticon.com/ "Flaticon") eskuratu dira , [Freepik](https://www.flaticon.com/authors/freepik "Freepik")- ek eta [smalllikeart](https://www.flaticon.es/autores/smalllikeart "smalllikeart") -ek egina
 
