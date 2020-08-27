@@ -1,7 +1,9 @@
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">WebSiteName</a>
+            <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">
+                <img src="https://clssystem.github.io/MouseHelperWebBeta/assets/images/MouseHelper.png" alt="MouseHelper" class="img-fluid" />
+            </a>
         </div>
         <ul class="nav navbar-nav">
             <li class="dropdown">
@@ -10,9 +12,9 @@
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a href="#">Page 1-1</a></li>
-                    <li><a href="#">Page 1-2</a></li>
-                    <li><a href="#">Page 1-3</a></li>
+                    <li><a class="dropdown-item" href="#fr"><span class="flag-icon flag-icon-fr"> </span>  French</a></li>
+                    <li><a class="dropdown-item" href="#it"><span class="flag-icon flag-icon-it"> </span>  Italian</a></li>
+                    <li><a class="dropdown-item" href="#ru"><span class="flag-icon flag-icon-ru"> </span>  Russian</a></li>
                 </ul>
             </li>
             <li><a href="#">Page 2</a></li>
