@@ -5,8 +5,6 @@ url: "https://clssystem.github.io/MouseHelperWeb/EU"
 description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 ---
-### Zure saguaren laguntzailea
-
  *Mouse Helper* doako programa bat da, saguaren funtzionamendua hobetzen lagunduko dizu.
 
 * <span >[Zer da eta nola funtzionatzen duen](#features)</span>  

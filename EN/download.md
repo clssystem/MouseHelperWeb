@@ -5,8 +5,6 @@ layout: pageEN
 description: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 tagline: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 ---
-### Download Page
-
 From this [link](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/Setup.exe) you can download the latest version.
 
 

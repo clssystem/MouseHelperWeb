@@ -5,8 +5,6 @@ layout: pageEN
 description: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 tagline: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 ---
-### Your mouse assistant
-
  *Mouse Helper* is a free software that will help you improve your mouse operation.
 
 * <span >[What it is and how it works](#features)</span>  
