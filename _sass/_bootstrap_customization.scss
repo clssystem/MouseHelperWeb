@@ -10,10 +10,13 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 @import url($web-font-path);
 
-// Navbar ======================================================================
+$web-font-path2: "https: //cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" !default;
+@import url($web-font-path2);
 
+
+// Navbar ======================================================================
 .navbar {
-  font-family: $headings-font-family;
+    font-family: $headings-font-family;
 }
 
 .bg-dark {
