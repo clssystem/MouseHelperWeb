@@ -36,7 +36,7 @@ Even if you do not have the disease, this program can also be useful for you: Tr
 
 ### <a name="screenshot"></a><b><i>Screenshots:</i></b>
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla0.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla0.PNG">
 
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla1.png">
 
