@@ -45,7 +45,6 @@ Aunque no tengas la enfermedad, este programa también puede ser útil para tí:
 
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla4.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla5.png">
 
 
 ### <a name="descarga"></a><b><i>Descarga Mouse Helper:</i></b>

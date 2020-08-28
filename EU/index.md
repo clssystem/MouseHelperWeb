@@ -46,8 +46,6 @@ Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: pro
 
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla4.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla5.png">
-
 
 
 ### <a name="descarga"></a><b><i>Deskargatu Mouse Helper:</i></b>
