@@ -6,6 +6,8 @@ title: "Tu asistente para el ratón"
 
 * <span >[Qué es y cómo funciona](#features)</span>  
         Aprende lo que Mouse Helper puede hacer por tí.
+* <span >[Capturas de pantalla](#screenshot)</span>  
+         Visualiza las pantallas de Mouse Helper.
 * <span >[Descarga Mouse Helper](#descarga)</span>  
         Obtén la última versión de Mouse Helper.
 * <span >[Licencia de uso](#licencia)</span>  
@@ -31,6 +33,13 @@ Como cualquier otro parkinsoniano, los mayores problemas con los que nos
 
 Aunque no tengas la enfermedad, este programa también puede ser útil para tí: Pruebálo y si te gusta, haz un donativo a cualquier asociación (si es de Parkinson, mejor... ) 
 
+### <a name="screenshot"></a><b><i>Capturas de pantalla:</i></b>
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla0.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla1.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla2.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla3.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla4.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla5.png">
 
 ### <a name="descarga"></a><b><i>Descarga Mouse Helper:</i></b>
 
