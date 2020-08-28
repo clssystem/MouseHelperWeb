@@ -10,6 +10,8 @@ tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate b
 
 * <span >[Zer da eta nola funtzionatzen duen](#features)</span>  
         Ikusi saguaren laguntzailea zuretzat zer egin dezakezun.
+* <span >[Pantailak](#screenshot)</span>  
+         Begiratu Mouse Helper pantailetan.
 * <span >[Deskargatu Mouse Helper](#descarga)</span>  
         Eskuratu Mouse Helper-en azken bertsioa.
 * <span >[Lizentzia](#licencia)</span>  
@@ -31,6 +33,14 @@ Parkinsoniako beste edozein bezala, saguarekin topatzen ditugun arazo handienak 
 * Arrastatu eta jaregiteko eragiketak ordezko bat izaten dira. Askotan nahi gabe arrastatzen dugu fitxategia karpeta batera.
 
 Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: probatu eta nahi baduzu, egin dohaintza edozein elkarteri (Parkinsona bada, hobe ...)
+
+### <a name="screenshot"></a><b><i>Pantailak:</i></b>
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla0.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla1.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla2.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla3.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla4.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla5.png">
 
 
 ### <a name="descarga"></a><b><i>Deskargatu Mouse Helper:</i></b>
