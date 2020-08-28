@@ -35,6 +35,7 @@ Aunque no tengas la enfermedad, este programa también puede ser útil para tí:
 
 ### <a name="screenshot"></a><b><i>Capturas de pantalla:</i></b>
 
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla0.PNG">
 
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla1.png">

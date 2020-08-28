@@ -36,6 +36,7 @@ Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: pro
 
 ### <a name="screenshot"></a><b><i>Pantailak:</i></b>
 
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla0.png">
 
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla1.png">
