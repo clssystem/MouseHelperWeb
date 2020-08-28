@@ -35,12 +35,19 @@ Parkinsoniako beste edozein bezala, saguarekin topatzen ditugun arazo handienak 
 Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: probatu eta nahi baduzu, egin dohaintza edozein elkarteri (Parkinsona bada, hobe ...)
 
 ### <a name="screenshot"></a><b><i>Pantailak:</i></b>
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla0.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla1.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla2.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla3.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla4.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla5.png">
+
 
 
 ### <a name="descarga"></a><b><i>Deskargatu Mouse Helper:</i></b>

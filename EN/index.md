@@ -35,12 +35,19 @@ Like any other Parkinsonian, the biggest problems we encounter when handling the
 Even if you do not have the disease, this program can also be useful for you: Try it and if you like it, make a donation to any association (if it is Parkinson's, better ...)
 
 ### <a name="screenshot"></a><b><i>Screenshots:</i></b>
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla0.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla1.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla2.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla3.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla4.png">
+
 <img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla5.png">
+
 
 
 ### <a name="descarga"></a><b><i>Download Mouse Helper:</i></b>
