@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\images",
+    "\\assets",
     "\\assets\\javascript",
+    "\\assets\\javascript\\bootstrap",
+    "\\DE",
     "\\EN",
     "\\EU",
     "\\_includes",
     "\\_layouts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_includes\\footerEU.html",
+  "SelectedNode": "\\_includes\\header.html",
   "PreviewInSolutionExplorer": false
 }

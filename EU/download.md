@@ -2,6 +2,7 @@
 layout: pageEU
 lang: eu_ES
 url: "https://clssystem.github.io/MouseHelperWeb/EU"
+title: "Deskargen orria"
 description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 ---

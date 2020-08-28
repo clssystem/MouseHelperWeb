@@ -2,6 +2,7 @@
 url: "https://clssystem.github.io/MouseHelperWeb/EN"
 lang: en_US
 layout: pageEN
+title: "Your mouse assistant"   
 description: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 tagline: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 ---
