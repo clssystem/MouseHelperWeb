@@ -5,13 +5,13 @@
 
 // Some customization of the container class to have a better display in the guide.
 // Don't hesitate to remove it to have a standard Bootstrap behavior
-$container-max-widths: (
+/*$container-max-widths: (
   sm: 540px,
   md: 640px,
   lg: 690px,
   xl: 720px
 ) !default;
-
+*/
 // Minty 4.3.1
 // Bootswatch
 
@@ -26,7 +26,7 @@ $gray-300: #eceeef !default;
 $gray-400: #ced4da !default;
 $gray-500: #aaa !default;
 $gray-600: #888 !default;
-$gray-700: #5a5a5a !default;
+$gray-700: #5A5A5A !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
@@ -82,7 +82,7 @@ $dropdown-link-hover-bg:            $secondary !default;
 $navbar-dark-color:                 rgba($white,.6) !default;
 $navbar-dark-hover-color:           $white !default;
 
-$navbar-light-color:                rgba($black,.3) !default;
+$navbar-light-color:                rgba($black,1) !default;
 $navbar-light-hover-color:          $gray-700 !default;
 $navbar-light-active-color:         $gray-700 !default;
 $navbar-light-disabled-color:       rgba($black,.1) !default;
