@@ -8,7 +8,7 @@ title: "Tu asistente para el ratón"
         Aprende lo que Mouse Helper puede hacer por tí.
 * <span >[Capturas de pantalla](#screenshot)</span>  
          Visualiza las pantallas de Mouse Helper.
-* <span >[Descarga Mouse Helper](#descarga)</span>  
+* <span >[Descarga Mouse Helper](download.html)</span>  
         Obtén la última versión de Mouse Helper.
 * <span >[Licencia de uso](#licencia)</span>  
         Informaté de cuando puedes utilizar Mouse Helper

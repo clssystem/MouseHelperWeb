@@ -12,7 +12,7 @@ tagline: "Help software to improve mouse handling in Windows, for people with mo
         Learn what Mouse Helper can do for you.
 * <span >[Screenshots](#screenshot)</span>  
          Take a look at the Mouse Helper screens.
-* <span >[Download Mouse Helper](#descarga)</span>  
+* <span >[Download Mouse Helper](download.html)</span>  
         Get the latest version of Mouse Helper.
 * <span >[Use license](#licencia)</span>  
         Know when you can use Mouse Helper

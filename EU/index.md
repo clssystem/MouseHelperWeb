@@ -12,7 +12,7 @@ tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate b
         Ikusi saguaren laguntzailea zuretzat zer egin dezakezun.
 * <span >[Pantailak](#screenshot)</span>  
          Begiratu Mouse Helper pantailetan.
-* <span >[Deskargatu Mouse Helper](#descarga)</span>  
+* <span >[Deskargatu Mouse Helper](download.html)</span>  
         Eskuratu Mouse Helper-en azken bertsioa.
 * <span >[Lizentzia](#licencia)</span>  
         Aurki itzazu noiz erabil ditzakezun Mouse Helper
