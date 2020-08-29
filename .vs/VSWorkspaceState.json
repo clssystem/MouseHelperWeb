@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\javascript",
-    "\\assets\\javascript\\bootstrap",
-    "\\DE",
+    "\\assets\\images",
+    "\\assets\\images\\EN",
+    "\\assets\\images\\EU",
     "\\EN",
     "\\EU",
     "\\_includes",
     "\\_layouts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_includes\\header.html",
+  "SelectedNode": "\\assets\\images",
   "PreviewInSolutionExplorer": false
 }

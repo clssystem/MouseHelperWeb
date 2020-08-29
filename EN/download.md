@@ -6,12 +6,12 @@ title: "Download Page"
 description: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 tagline: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
 ---
-From this [link](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/Setup.exe) you can download the latest version.
+From this [link](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/Setup.msi) you can download the latest version.
 
  
 ### <b><i>Version history:</i></b>
 
-#### 2.1.0 [08/23/2020][download](https://github.com/clssystem/MouseHelperReleases/releases/download/v2.1.0/Setup.exe)
+#### 2.1.0 [08/23/2020][download](https://github.com/clssystem/MouseHelperReleases/releases/download/v2.1.0/Setup.msi)
    
 First stable RTM version
 
