@@ -59,7 +59,10 @@ Except where otherwise indicated, all documentation and software included in Mou
 
 This software is provided "as is" without any express or implied warranty. In no case will the author be liable for damages arising from the use of this software.
 
-Permission is granted to anyone to use this software for any purpose, including commercial ones, and to redistribute it freely, as long as its binary format is not altered.
+Permission is granted to anyone to use this software for any non-profit purpose, and to redistribute it freely, as long as its binary format is not altered.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 
 Copyright (C) 2020 Antonio Liberal. All rights reserved.
 
