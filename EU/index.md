@@ -55,11 +55,15 @@ Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: pro
 
 ### <a name="licencia"></a><b><i>Lizentzia:</i></b>
 
-Bestela adierazi ezean, Mouse Helper-en sartutako dokumentazio eta software guztia Antonio Liberal-en jabetza intelektuala da.
+Bestelakorik adierazi ezean, Mouse Helper zerbitzuan sartutako dokumentazio eta software guztia Antonio Liberalen jabetza intelektuala da.
 
-Softwarea "berdin" adierazten da, inolako berme espresurik edo inpliziturik gabe. Inolaz ere ez da egilea izango software hau erabiltzearen ondorioz sortutako kalteengatik.
+Edonori baimena ematen zaio software hau irabazi asmorik gabeko helburuetarako erabiltzeko eta askatasun osoz birbanatzeko, betiere bere formatu bitarra aldatzen ez bada.
 
-Baimena ematen zaio edonori softwarea erabiltzeko edozein helburuetarako, helburu komertzialak barne, eta aske birbanatzeko, betiere bere formatu bitarra aldatzen ez bada.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.eu_ES"><img alt="Creative Commons lizentzia" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />lan hau <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES">Creative Commons Aitortu-EzKomertziala-PartekatuBerdin 4.0 Nazioartekoa lizentzia</a> baten mende dago.
+
+Software hau "dagoen bezala" eskaintzen da inolako berme espresurik edo inpliziturik izan gabe.
+
+Egilea ez da inolaz ere izango & nbsp; software hau erabiltzearen ondorioz sortutako kalteen erantzule.
 
 Copyright (C) 2020 Antonio Liberal. Eskubide guztiak erreserbatuak.
 
