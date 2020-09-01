@@ -56,9 +56,12 @@ Puedes descargar Mouse Helper haciendo clic en este [enlace](download.html)
 
 Excepto donde se indique lo contrario, toda la documentación y el software incluidos en Mouse Helper es propiedad intelectual de Antonio Liberal.
 
+Se otorga permiso a cualquier persona para usar este software para cualquier propósito sin fines lucrativos, y para redistribuirlo libremente, mientras no se altere su formato binario.
+ 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
 Este software se proporciona "tal cual", sin ninguna garantía expresa o implícita. En ningún caso el autor será&nbsp; responsable de los daños derivados del uso de este software.
 
- Se otorga permiso a cualquier persona para usar este software para cualquier propósito, incluidos los comerciales, y para redistribuirlo libremente, mientras no se altere su formato binario.
+
 
 Copyright (C) 2020 Antonio Liberal. Todos los derechos reservados.
 
