@@ -13,7 +13,9 @@ Jarraitu argibide hauek zure arakatzailearen arabera:
 
 #### Microsoft Edge
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/HowToInstallEdge.gif">
+<div class="shadow-lg p-3 mb-5 bg-white rounded">
+<img  class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/HowToInstallEdge.gif">
+</div>
 
 Beste arakatzaile batzuentzat MouseHelper instalatzeko modua antzekoa da
 
