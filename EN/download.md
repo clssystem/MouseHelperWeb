@@ -21,12 +21,3 @@ For other browsers the way to install MouseHelper is similar.
 
 
  
-### <b><i>Version history:</i></b>
-
-#### 2.1.0 [08/23/2020][download](https://github.com/clssystem/MouseHelperReleases/releases/download/v2.1.0/MouseHelper.exe)
-   
-First stable RTM version
-
-If someone is encouraged to do the translations, I will be delighted.
-
-

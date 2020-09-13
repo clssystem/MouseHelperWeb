@@ -17,9 +17,3 @@ Sigue estas instrucciones en función de tu navegador:
 Para otros navegadores la forma de instalar MouseHelper es similar
 
 
-
-### <b><i>Historial de versiones:</i></b>
-
-#### 2.1.0 [23/08/2020][enlace](https://github.com/clssystem/MouseHelperReleases/releases/download/v2.1.0/MouseHelper.exe)
-   
-Primera versión RTM estable
