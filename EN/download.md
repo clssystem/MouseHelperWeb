@@ -8,6 +8,17 @@ tagline: "Help software to improve mouse handling in Windows, for people with mo
 ---
 From this [link](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.exe) you can download the latest version.
 
+Follow these instructions depending on your internet browser:
+
+
+#### Microsoft Edge
+
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/HowToInstallEdge.gif">
+
+
+For other browsers the way to install MouseHelper is similar.
+
+
  
 ### <b><i>Version history:</i></b>
 

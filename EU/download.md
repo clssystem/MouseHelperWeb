@@ -8,6 +8,16 @@ tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate b
 ---
 [Esteka](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.exe) honetatik azken bertsioa deskarga dezakezu.
 
+Jarraitu argibide hauek zure arakatzailearen arabera:
+
+
+#### Microsoft Edge
+
+<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/HowToInstallEdge.gif">
+
+Beste arakatzaile batzuentzat MouseHelper instalatzeko modua antzekoa da
+
+
  
 ### <b><i>Bertsioen historia:</i></b>
 
