@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\images",
     "\\assets\\images\\EN",
     "\\assets\\images\\EU",
+    "\\DE",
     "\\EN",
     "\\EU",
-    "\\_includes",
+    "\\MouseHelper",
+    "\\MouseHelperWeb",
     "\\_layouts"
   ],
-  "SelectedNode": "\\assets\\images\\EN",
+  "SelectedNode": "\\MouseHelperWeb\\index.html",
   "PreviewInSolutionExplorer": false
 }
