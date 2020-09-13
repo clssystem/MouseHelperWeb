@@ -1,7 +1,7 @@
 ---
 layout: pageEU
 lang: eu_ES
-url: "https://clssystem.github.io/MouseHelperWeb/EU"
+url: "https://www.mousehelper.cls-system.es/EU"
 title: "Deskargen orria"
 description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
@@ -14,7 +14,7 @@ Jarraitu argibide hauek zure arakatzailearen arabera:
 #### Microsoft Edge
 
 <div class="shadow-lg p-3 mb-5 bg-white rounded">
-<img  class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/HowToInstallEdge.gif">
+<img  class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/HowToInstallEdge.gif">
 </div>
 
 Beste arakatzaile batzuentzat MouseHelper instalatzeko modua antzekoa da

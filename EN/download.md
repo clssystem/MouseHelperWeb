@@ -1,5 +1,5 @@
 ---
-url: "https://clssystem.github.io/MouseHelperWeb/EN"
+url: "https://www.mousehelper.cls-system.es/EN"
 lang: en_US
 layout: pageEN
 title: "Download Page"
@@ -14,7 +14,7 @@ Follow these instructions depending on your internet browser:
 #### Microsoft Edge
 
 <div class="shadow-lg p-3 mb-5 bg-white rounded">
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/HowToInstallEdge.gif">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EN/HowToInstallEdge.gif">
 </div>
 
 For other browsers the way to install MouseHelper is similar.

@@ -1,7 +1,7 @@
 ---
 layout: pageEU
 lang: eu_ES
-url: "https://clssystem.github.io/MouseHelperWeb/EU"
+url: "https://www.mousehelper.cls-system.es/EU"
 title: "Zure saguaren laguntzailea"   
 description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
@@ -37,15 +37,15 @@ Gaixotasunik ez baduzu ere, programa hau erabilgarria izan daiteke zuretzat: pro
 ### <a name="screenshot"></a><b><i>Pantailak:</i></b>
 
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla0.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/pantalla0.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla1.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/pantalla1.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla2.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/pantalla2.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla3.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/pantalla3.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EU/pantalla4.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/pantalla4.png">
 
 
 
@@ -87,7 +87,7 @@ Programa hau doakoa izan daiteke exekutatu eta banatzeko, baina nahi baduzu, doh
 
 Parkinsonen Elkartean, esaterako, [ANAPAR](http://www.anapar.org/) edo [Parkinsonaren Federazioan](https://www.esparkinson.es/) egitea gomendatzen dut :
 
-<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://clssystem.github.io/MouseHelperWeb/assets/images/donativo.png"></a>      
+<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 
 ### <a name="agradecimientos"></a><b><i>Eskerrak eta eginkizunak</i></b>
 

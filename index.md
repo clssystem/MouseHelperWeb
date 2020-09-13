@@ -36,15 +36,15 @@ Aunque no tengas la enfermedad, este programa también puede ser útil para tí:
 ### <a name="screenshot"></a><b><i>Capturas de pantalla:</i></b>
 
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla0.PNG">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/pantalla0.PNG">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla1.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/pantalla1.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla2.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/pantalla2.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla3.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/pantalla3.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/pantalla4.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/pantalla4.png">
 
 
 
@@ -88,7 +88,7 @@ Este programa es de libre ejecución y distribución, pero puedes aportar un don
 
 Te recomiendo que lo hagas en una Asociación de Parkinson, como [ANAPAR](http://www.anapar.org/) o la [Federación de Parkinson](https://www.esparkinson.es/):
 
-<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img class="img-fluid" style="horizontal-align:middle" src="https://clssystem.github.io/MouseHelperWeb/assets/images/donativo.png"></a>      
+<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img class="img-fluid" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 
 ### <a name="agradecimientos"></a><b><i>Agradecimientos y atribuciones</i></b>
 

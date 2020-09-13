@@ -1,5 +1,5 @@
 ---
-url: "https://clssystem.github.io/MouseHelperWeb/EN"
+url: "https://www.mousehelper.cls-system.es/EN"
 lang: en_US
 layout: pageEN
 title: "Your mouse assistant"   
@@ -37,15 +37,15 @@ Even if you do not have the disease, this program can also be useful for you: Tr
 ### <a name="screenshot"></a><b><i>Screenshots:</i></b>
 
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla0.PNG">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EN/pantalla0.PNG">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla1.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EN/pantalla1.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla2.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EN/pantalla2.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla3.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EN/pantalla3.png">
 
-<img class="img-fluid" alt="Mouse Helper" src="https://clssystem.github.io/MouseHelperWeb/assets/images/EN/pantalla4.png">
+<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EN/pantalla4.png">
 
 
 
@@ -86,7 +86,7 @@ This sofware is free to run and distribute, but you can make a donation to any a
 
 I suggest you to make it in a Parkinson's Association, such as [ANAPAR](http://www.anapar.org/) o la [ Parkinson's Federation](https://www.esparkinson.es/):
 
-<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://clssystem.github.io/MouseHelperWeb/assets/images/donativo.png"></a>      
+<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img  style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 
 ### <a name="agradecimientos"></a><b><i>Acknowledgments and attributions</i></b>
 
