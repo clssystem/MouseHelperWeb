@@ -1,17 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\images",
+    "\\assets\\images\\EN",
     "\\assets\\images\\EU",
     "\\DE",
     "\\EN",
     "\\EU",
     "\\MouseHelper",
-    "\\MouseHelperWeb",
-    "\\_includes",
-    "\\_layouts"
+    "\\MouseHelperWeb"
   ],
-  "SelectedNode": "\\assets\\images\\instala3.png",
   "PreviewInSolutionExplorer": false
 }
