@@ -66,9 +66,9 @@ Permission is granted to anyone to use this software for any non-profit purpose,
 
 Copyright (C) 2020 Antonio Liberal. All rights reserved.
 
-### <a name="contacta"></a><b><i>Contact with us:</i></b>
+### <a name="contacta"></a><b><i>Contact with me:</i></b>
 
-You can contact with us throug the following means:
+You can contact with me throug the following means:
 
 * e-mail: [mousehelper@outlook.es](mailto:mousehelper@outlook.es)
   
@@ -76,7 +76,7 @@ You can contact with us throug the following means:
 
 * Twitter: [@mouse_helper](https://twitter.com/mouse_helper)
 
-We will be happy to answer your questions and accept your suggestions.
+I will be happy to answer your questions and accept your suggestions.
 
 You can also read [el diario de un parkinsoniano](https://diariodeunparkinsoniano.wordpress.com/)
 

@@ -11,7 +11,7 @@ title: "Tu asistente para el ratón"
 * <span >[Descarga Mouse Helper](download.html)</span>  
         Obtén la última versión de Mouse Helper.
 * <span >[Licencia de uso](#licencia)</span>  
-        Informaté de cuando puedes utilizar Mouse Helper
+        Infórmate de cuando puedes utilizar Mouse Helper
 * <span >[Contacta](#contacta)</span>  
         Contacta con el autor del programa.
 * <span >[Haz una aportación económica a una asociación](#dona)</span>  

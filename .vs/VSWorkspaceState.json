@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\images",
-    "\\assets\\images\\EN",
-    "\\assets\\images\\EU",
     "\\DE",
     "\\EN",
     "\\EU",
     "\\MouseHelper",
-    "\\MouseHelperWeb"
+    "\\MouseHelperWeb",
+    "\\node_modules"
   ],
+  "SelectedNode": "\\node_modules",
   "PreviewInSolutionExplorer": false
 }
