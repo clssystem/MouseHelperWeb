@@ -5,9 +5,8 @@
     "\\EN",
     "\\EU",
     "\\MouseHelper",
-    "\\MouseHelperWeb",
-    "\\node_modules"
+    "\\MouseHelperWeb"
   ],
-  "SelectedNode": "\\node_modules",
+  "SelectedNode": "\\index.md",
   "PreviewInSolutionExplorer": false
 }
