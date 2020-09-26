@@ -5,8 +5,9 @@
     "\\EN",
     "\\EU",
     "\\MouseHelper",
-    "\\MouseHelperWeb"
+    "\\MouseHelperWeb",
+    "\\_includes"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\sitemap.xml",
   "PreviewInSolutionExplorer": false
 }
