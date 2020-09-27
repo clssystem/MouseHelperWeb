@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Tu asistente para el ratón"
+excerpt: "Blabal"
 ---
  *Mouse Helper* es un programa gratuito que te ayudará a mejorar el manejo con el ratón.  
 

@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DE",
-    "\\EN",
-    "\\EU",
-    "\\MouseHelper",
-    "\\MouseHelperWeb",
-    "\\_includes"
+    "\\assets",
+    "\\assets\\javascript",
+    "\\assets\\javascript\\bootstrap"
   ],
-  "SelectedNode": "\\_includes\\headEN.html",
+  "SelectedNode": "\\assets\\javascript\\bootstrap\\jquery.min.js",
   "PreviewInSolutionExplorer": false
 }
