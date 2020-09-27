@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Tu asistente para el ratón"
-tags: MouseHelper ratón dificultades motoras enferemedad Parkinson gratuito
 
 ---
  *Mouse Helper* es un programa gratuito que te ayudará a mejorar el manejo con el ratón.  
