@@ -1,7 +1,13 @@
 ---
 layout: page
 title: "Tu asistente para el ratón"
-excerpt: "Blabal"
+tags:
+    Mouse Helper
+    MouseHelper
+    ratón
+    dificultades motoras
+    enferemedad de Parkinson
+
 ---
  *Mouse Helper* es un programa gratuito que te ayudará a mejorar el manejo con el ratón.  
 

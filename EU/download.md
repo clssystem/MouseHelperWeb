@@ -3,8 +3,7 @@ layout: pageEU
 lang: eu_ES
 url: "https://www.mousehelper.cls-system.es/EU"
 title: "Deskargen orria"
-description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
-tagline: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
+description: "Deskargatu Mouse Helper erabat doakoa, betiere erabilera ez komertzialekin"
 ---
 [Esteka](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.exe) honetatik azken bertsioa deskarga dezakezu.
 

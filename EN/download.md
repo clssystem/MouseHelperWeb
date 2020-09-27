@@ -3,8 +3,7 @@ url: "https://www.mousehelper.cls-system.es/EN"
 lang: en_US
 layout: pageEN
 title: "Download Page"
-description: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
-tagline: "Help software to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease"
+description: "Download Mouse Helper totally free as long as it is with non-commercial uses"
 ---
 From this [link](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.exe) you can download the latest version.
 
