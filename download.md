@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Página de Descargas"
-description: "Descarga Mouse Helper totalmente  gratis siempre que sea con usos no comerciales"
+description: "Descarga Mouse Helper totalmente gratis siempre que sea con usos no comerciales"
 ---
 
 
