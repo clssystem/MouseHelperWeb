@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.mousehelper.cls-system.es/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/MouseHelper.png</image:loc>
         <image:title>MouseHelper</image:title>
@@ -37,6 +40,9 @@
   </url>
   <url>
     <loc>https://www.mousehelper.cls-system.es/download.html</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/MouseHelper.png</image:loc>
         <image:title>MouseHelper</image:title>
@@ -52,6 +58,9 @@
   </url>
   <url>
     <loc>https://www.mousehelper.cls-system.es/EU/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/MouseHelper.png</image:loc>
         <image:title>MouseHelper</image:title>
@@ -87,6 +96,9 @@
   </url>
   <url>
     <loc>https://www.mousehelper.cls-system.es/EN/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/MouseHelper.png</image:loc>
         <image:title>MouseHelper</image:title>
@@ -117,11 +129,14 @@
       </image:image>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/donativo.png</image:loc>
-        <image:title>donativo</image:title>
+        <image:title>donation</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://www.mousehelper.cls-system.es/EU/download.html</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/MouseHelper.png</image:loc>
         <image:title>MouseHelper</image:title>
@@ -137,6 +152,9 @@
   </url>
   <url>
     <loc>https://www.mousehelper.cls-system.es/EN/download.html</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
       <image:image>
         <image:loc>https://www.mousehelper.cls-system.es/assets/images/MouseHelper.png</image:loc>
         <image:title>MouseHelper</image:title>
