@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "MouseHelper Versions"
+title: "MouseHelper bertsioak"
 
 ---
  
-### <a name="2.2.0"></a><b><i>2.2.0 - 2020/11/07:</i></b>
+## <a name="2.2.1"> </a> <b> <i> 2.2.1 - 2020/11/07: </i> </b>
 
-* Fixes in translations to different languages
+* Konponketak hizkuntza desberdinetara egindako itzulpenetan

@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\javascript",
-    "\\assets\\javascript\\bootstrap",
+    "\\CA",
+    "\\DE",
+    "\\EN",
+    "\\EU",
+    "\\FR",
+    "\\GL",
+    "\\IT",
     "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\assets",
+  "SelectedNode": "\\CA\\whatsnew.html",
   "PreviewInSolutionExplorer": false
 }
