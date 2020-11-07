@@ -81,7 +81,7 @@ Puedes contactar conmigo a través de los siguientes medios:
 
 Estaré encantado de resolver tus dudas y de aceptar tus sugerencias.
 
-También puedes leer [el diario de un parkinsoniano](https://diariodeunparkinsoniano.wordpress.com/)
+También puedes leer [el diario de un parkinsoniano](https://diariodeunparkinsoniano.cls-system.es/)
 
 ### <a name="dona"></a><b><i>Dona a una asociación:</i></b>
 

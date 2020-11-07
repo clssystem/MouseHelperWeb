@@ -78,7 +78,7 @@ Nirekin harremanetan jar zaitezke ondorengo bideen bidez:
 
 Pozik egongo naiz zure galderei erantzuteko eta zure iradokizunak onartzeko.
 
-[Parkinsoniako egunkaria](https://diariodeunparkinsoniano.wordpress.com/) ere irakur dezakezu
+[Parkinsoniako egunkaria](https://diariodeunparkinsoniano.cls-system.es/) ere irakur dezakezu
 
 ### <a name="dona"></a><b><i>Elkarte bati eman:</i></b>
 

@@ -77,7 +77,7 @@ You can contact with me throug the following means:
 
 I will be happy to answer your questions and accept your suggestions.
 
-You can also read [el diario de un parkinsoniano](https://diariodeunparkinsoniano.wordpress.com/)
+You can also read [el diario de un parkinsoniano](https://diariodeunparkinsoniano.cls-system.es/)
 
 ### <a name="dona"></a><b><i>Make a donation:</i></b>
 
