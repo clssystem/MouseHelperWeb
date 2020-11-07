@@ -3,8 +3,12 @@
     "",
     "\\assets",
     "\\assets\\javascript",
-    "\\assets\\javascript\\bootstrap"
+    "\\assets\\javascript\\bootstrap",
+    "\\EN",
+    "\\EU",
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\assets\\javascript\\bootstrap\\jquery.min.js",
+  "SelectedNode": "\\_includes\\head.html",
   "PreviewInSolutionExplorer": false
 }
