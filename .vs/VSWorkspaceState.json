@@ -4,11 +4,9 @@
     "\\assets",
     "\\assets\\javascript",
     "\\assets\\javascript\\bootstrap",
-    "\\EN",
-    "\\EU",
     "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_includes\\head.html",
+  "SelectedNode": "\\assets",
   "PreviewInSolutionExplorer": false
 }
