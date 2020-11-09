@@ -6,9 +6,8 @@ description: "Descarga Mouse Helper totalmente gratis siempre que sea con usos n
 
 
 Desde este [enlace](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.exe) puedes descargar e instalar la última version.
-</br>
-</br>
-</br>
+
+
 
 Sigue estas instrucciones en función de tu navegador:
 
