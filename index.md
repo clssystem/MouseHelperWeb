@@ -7,6 +7,8 @@ title: "Tu asistente para el ratón"
 
 * <span >[Qué es y cómo funciona](#features)</span>  
         Aprende lo que Mouse Helper puede hacer por tí.
+* <span >[Menciones en los medios](mentions.html)</span>  
+        Lee lo que los medios de comunicación dicen sobre Mouse Helper
 * <span >[Capturas de pantalla](#screenshot)</span>  
          Visualiza las pantallas de Mouse Helper.
 * <span >[Descarga Mouse Helper](download.html)</span>  
