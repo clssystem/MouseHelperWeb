@@ -5,7 +5,7 @@ url: "https://www.mousehelper.cls-system.es/EU"
 title: "Zure saguaren laguntzailea"   
 description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esate baterako, Parkinsona bezalako gaixotasun motorrak dituzten pertsonentzat"
 ---
- *Mouse Helper* doako programa bat da, saguaren funtzionamendua hobetzen lagunduko dizu.
+ *Mouse Helper* doako programa bat da, saguaren funtzionamendua hobetzen lagunduko dizu, eta hori Windows sistema eragilean exekutatzen da (7tik aurrera)
 
 * <span >[Zer da eta nola funtzionatzen duen](#features)</span>  
         Ikusi saguaren laguntzailea zuretzat zer egin dezakezun.
