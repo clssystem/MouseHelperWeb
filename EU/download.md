@@ -19,7 +19,7 @@ Instalatzeko arazoak badituzu (zure antibirusak eragozten duelako, adibidez), sa
 * Desgaitu birusen kontrakoa (edo gehitu MouseHelper.exe-rako salbuespena), saiatu berriro deskargatzen eta instalatzen eta, ondoren, aktibatu berriro birusen aurkako. Programa nik sinatu dut digitalki, eta berme guztiak ditu, baina sagua eta teklatua oso maila baxuan sartzen direnez, birusen aurkako batzuek oker antzeman dezakete positibo faltsutzat.
   Ahal den neurrian enpresa horiekin harremanetan jarriko naiz, kontuan har dezaten.
 * Ezin baduzu:
-  * Saiatu zip fitxategia deskargatzen [esteka](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.zip) honetatik  eta jarraitu beheko [argibideak](# eskuliburua).
+  * Saiatu zip fitxategia deskargatzen [esteka](https://github.com/clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.zip) honetatik  eta jarraitu beheko [argibideak](#manual).
   * Arazoak izaten jarraitzen baduzu, jarri nirekin harremanetan [mousehelper@outlook.es](mailto://mousehelper@outlook.es) posta elektronikoz eta pertsonalki laguntzen saiatuko naiz.
   
 Gogoan izan nire laguntza modu altruistan eskaintzen dudala, eta proiektu honen atzean nire denbora librea soilik dedikatzen ari naizela, beraz, izan pazientzia.
