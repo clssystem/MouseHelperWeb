@@ -24,3 +24,6 @@ description: "Mouse Helper mentions in the media"
 * [rtve navarra](https://twitter.com/RTVENavarra/status/1326175955593859072?s=08)
 * [rtve telediario 1](https://www.rtve.es/alacarta/videos/telediario/15-horas-11-11-20/5711260)
 * [onda cero navarra](https://www.ondacero.es/emisoras/navarra/pamplona/audios-podcast/noticias-mediodia-navarra/noticias-mediodia-navarra-11112020_202011115fabd3e90e37c40001001811.html)
+* [radio pamplona](https://cadenaser.com/emisora/2020/11/12/radio_pamplona/1605174928_667072.html)
+* [diario de noticias](https://amp.diariodenavarra.es/noticias/navarra/2020/11/10/un-navarro-con-parkinson-disena-programa-para-manejar-raton-707678-300.html)
+* [la información](https://www.lainformacion.com/tecnologia/enfermo-parkinson-espana-disena-programa-ayuda-uso-raton-ordenador/2820546/)
