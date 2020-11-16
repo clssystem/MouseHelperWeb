@@ -8,11 +8,14 @@ description: "Menciones de Mouse Helper en los medios de comunicación"
 
 ##### Presentación a los medios de MouseHelper
 
-<iframe src="https://www.youtube.com/embed/B9vcEUVCpbU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 324px; height: 182.575px;" data-ratio="0.5635036496350365" data-width="685" data-height="386"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B9vcEUVCpbU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen></iframe>
+</div>
 <p></p>
 
 ##### Artículos destacados
+
+
 
 
 * [eldiario.es](https://www.eldiario.es/navarra/ultimas-noticias/una-aplicacion-informatica-facilita-el-uso-del-raton-en-personas-con-parkinson-y-permite-que-puedan-usar-el-ordenador_1_6404150.html)
