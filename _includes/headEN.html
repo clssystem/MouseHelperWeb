@@ -21,9 +21,9 @@
     {%- feed_meta -%}
     <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
     <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
-    <link rel="alternate" hreflang="x-default" href="{{ site.url }}/EN{{ page.url | replace:'index.html',''}}" />
-    <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
-    <link rel="alternate" hreflang="es-EU" href="{{ site.url }}/EU{{ page.url | replace:'index.html',''}}" />
-    <link rel="alternate" hreflang="en" href="{{ site.url }}/EN{{ page.url | replace:'index.html',''}}" />
+    <link rel="alternate" hreflang="x-default" href="{{ site.url | replace:'/EN', '/EN'}}{{ page.url | replace:'index.html',''}}" />
+    <link rel="alternate" hreflang="es" href="{{ site.url  | replace:'/EN', '' }}{{ page.url | replace:'index.html',''}}" />
+    <link rel="alternate" hreflang="es-EU" href="{{ site.url replace:'/EN', '/EU' }}{{ page.url | replace:'index.html',''}}" />
+    <link rel="alternate" hreflang="en" href="{{ site.url  | replace:'/EN', '/EN'}}{{ page.url | replace:'index.html',''}}" />
 
 </head>
