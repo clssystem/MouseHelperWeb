@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EN",
-    "\\_layouts",
-    "\\_sass",
-    "\\_sass\\bootstrap",
-    "\\_sass\\bootstrap\\utilities"
+    "\\_layouts"
   ],
-  "SelectedNode": "\\404.html",
+  "SelectedNode": "\\_layouts\\defaultEU.html",
   "PreviewInSolutionExplorer": false
 }
