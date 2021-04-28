@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\EN",
+    "\\EN",
+    "\\EU",
+    "\\FR",
+    "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_layouts\\defaultEU.html",
+  "SelectedNode": "\\assets\\images\\EN\\HowToInstallEdge.gif",
   "PreviewInSolutionExplorer": false
 }

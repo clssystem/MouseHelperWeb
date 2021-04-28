@@ -91,7 +91,7 @@ Este programa es de libre ejecución y distribución, pero puedes aportar un don
 
 Te recomiendo que lo hagas en una Asociación de Parkinson, como [ANAPAR](http://www.anapar.org/) o la [Federación de Parkinson](https://www.esparkinson.es/):
 
-<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img alt="donativo" class="img-fluid" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
+<a href="https://www.anapar.org/socio/haz-un-donativo/"><img alt="donativo" class="img-fluid" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 
 ### <a name="agradecimientos"></a><b><i>Agradecimientos y atribuciones</i></b>
 

@@ -86,7 +86,7 @@ Programa hau doakoa izan daiteke exekutatu eta banatzeko, baina nahi baduzu, doh
 
 Parkinsonen Elkartean, esaterako, [ANAPAR](http://www.anapar.org/) edo [Parkinsonaren Federazioan](https://www.esparkinson.es/) egitea gomendatzen dut :
 
-<a href="http://www.anapar.org/anapar/participa/haz-un-donativo/"><img alt="donativo" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
+<a href="https://www.anapar.org/socio/haz-un-donativo/"><img alt="donativo" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 
 ### <a name="agradecimientos"></a><b><i>Eskerrak eta eginkizunak</i></b>
 
