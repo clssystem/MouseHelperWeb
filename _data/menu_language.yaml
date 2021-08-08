@@ -1,0 +1,40 @@
+- language: 'es'
+  nav_links:
+  - label: Home
+    url: '/es/'
+    style: link
+  - label: Descarga
+    url: /es/download
+    style: link
+  - label: Medios
+    url: /es/media
+    style: link  
+    has_icon: false
+    icon: arrow-left
+    icon_position: left
+    new_window: false
+    no_follow: false
+    type: action
+  - label: Haz una donacion
+    url: https://www.anapar.org/socio/haz-un-donativo/
+    style: primary
+- language: 'en'
+  nav_links:
+  - label: Home
+    url: '/en/'
+    style: link
+  - label: Download
+    url: '/en/download'
+    style: link
+  - label: Media
+    url: /en/media
+    style: link  
+    has_icon: false
+    icon: arrow-left
+    icon_position: left
+    new_window: false
+    no_follow: false
+    type: action
+  - label: Make a Donation
+    url: https://www.anapar.org/socio/haz-un-donativo/
+    style: primary

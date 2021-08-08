@@ -1,0 +1,53 @@
+
+{% assign domain = site.domain | trim: '/' %}
+{% assign rel_url = action.url | relative_url %}
+{% assign full_url = domain | append: rel_url %}
+{% if rel_url contains '://' %}
+{% assign full_url = rel_url %}
+
+{% endif %}
+{% assign full_url = full_url | replace: ':pagelang:', pagelang %}
+
+
+<header id="masthead" class="site-header outer">
+    <div class="inner">
+        <div class="site-header-inside">
+            <div class="site-branding">
+                <div class="site-logo" style="align-items:center;margin:0;padding:0">
+                    
+                    <div style="flex-grow:1">
+                        <a href="{{full_url}}" style="text-decoration:none">
+                                <img src="{{ site.header.logo_img | relative_url | replace: ':pagelang:', pagelang }}" style="vertical-align:middle;">
+                              </a>
+                    </div>
+                    <div style="flex-grow:2">
+                        <div style="margin:0;padding:0"><h2 style="margin:0;padding:0"><a href="{{full_url}}" style="text-decoration:none">MouseHelper</a></h2></div>
+                        <div class="site-logo2" style="align-items:baseline;margin:0;padding:0">
+                               <a href="{{full_url}}" style="text-decoration:none;float:left">
+                                    <img src="{{ site.header.logo_clsSystem | relative_url | replace: ':pagelang:', pagelang }}" style="vertical-align:central;width:140px;" href='{{ '/' | relative_url }}' />
+                                </a>
+
+                                <p style="margin:0 0 0 5px;float:right">
+
+                                    {% for action in site.header.nav_languages %}
+                                    {% assign page_url = page.url | trim: '/' %}
+                                    {% assign action_url = action.url | trim: '/' %}
+                                    {% assign action_style = action.style | default: 'link' %}
+                                    {% assign action_label = action.label | downcase%}
+                                    {% include action.html action=action %}
+                                    {% endfor %}
+                                </p>
+
+
+
+                        </div>
+                    </div>
+                      
+                </div>
+
+
+            </div><!-- .site-branding -->
+            {% include menu.html%}
+        </div>
+    </div>
+</header><!-- .site-header -->

@@ -1,0 +1,59 @@
+<footer id="colophon" class="site-footer">
+    {% assign p_is_not_empty = page.lang | is_not_empty %}
+{% if p_is_not_empty %}
+{% assign p = page.lang %}
+{% else %}
+    {% assign p = site.lang %}
+{% endif %}
+
+{% assign mmm = site.footers | where: "name", p %}
+    {% for mm in  mmm %}
+    {% assign siteFooter = mm.sections %}
+    {% assign siteFooterSections = mm.sections %}
+    {% assign siteFooterNavLinks = mm.nav_links%}
+    {% assign siteFooterLinks = mm.links%}
+  {% assign sections_is_not_empty = siteFooterSections | is_not_empty %}
+  {% if sections_is_not_empty %}
+    {% assign expr_1 = siteFooterSections | size %}
+    {% if expr_1 > 0 %}
+    <div class="footer-top outer">
+      <div class="inner">
+        <div class="grid footer-widgets">
+          {% for section in siteFooterSections %}
+            {% include language.html %}            
+            {% assign component = section.type | append: ".html" %}
+            {% include {{ component }} section=section site=site page=page %}
+          {% endfor %}
+        </div>
+      </div>
+    </div><!-- .footer-top -->
+    {% endif %}
+  {% endif %}
+  <div class="footer-bottom outer">
+    <div class="inner">
+      {% if mm.has_nav and siteFooterNavLinks %}
+      <div class="footer-nav">
+        <ul class="menu">
+          {% for action in siteFooterNavLinks %}
+          <li class="menu-item"> 
+            {% include language.html %}            
+            
+            {% include action_link.html action=action site=site page=page %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      <div class="site-info">
+        {{ mm.content }}
+        &nbsp;
+        {% for action in siteFooterLinks %}
+          
+            {% include language.html %}            
+          {% include action_link.html action=action  site=site page=page %}
+        {% endfor %}
+      </div>
+    </div>
+  </div><!-- .footer-bottom -->
+    {% endfor %}
+</footer><!-- .site-footer -->

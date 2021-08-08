@@ -1,0 +1,13 @@
+
+{% assign action = include.action %}
+{% assign action_style = action.style | default: 'link' %}
+{% assign action_icon = action.icon | default: 'arrow-left' %}
+{% assign action_icon_pos = action.icon_position | default: 'left' %}
+{% assign action_url = action.url | replace: ':pagelang:', pagelang %}
+{% assign rel_url = action_url | relative_url %}
+
+{% assign full_url = rel_url %}
+
+<a href="{{ full_url }}"
+  {% assign new_window_is_not_empty = action.new_window | is_not_empty %}{% if new_window_is_not_empty %} target="_blank"{% endif %}
+  {% if action.new_window or action.no_follow %} rel="{% assign new_window_is_not_empty = action.new_window | is_not_empty %}{% if new_window_is_not_empty %}noopener {% endif %}{% assign no_follow_is_not_empty = action.no_follow | is_not_empty %}{% if no_follow_is_not_empty %}nofollow{% endif %}"{% endif %}>{{ action.label }}</a>

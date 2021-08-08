@@ -1,0 +1,10 @@
+{% assign domain = site.domain | trim: '/' %}
+{% assign sitelang = site.lang%}
+{% assign pagelang = page.lang%}
+{% assign pagelang_is_empty = page.lang | is_empty %}
+{% if pagelang_is_empty %}
+{% assign pagelang = site.lang%}
+{% endif %}
+{% assign pagelang = page.lang | default: site.lang | default: "es"%}
+<!--<p>{{pagelang}} {{site.lang}} {{page.lang}}</p>-->
+
