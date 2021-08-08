@@ -1,15 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\images",
-    "\\assets\\images\\EN",
-    "\\EN",
-    "\\EU",
-    "\\FR",
+    "\\MouseHelperWeb",
     "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\assets\\images\\EN\\HowToInstallEdge.gif",
+  "SelectedNode": "\\index.md",
   "PreviewInSolutionExplorer": false
 }

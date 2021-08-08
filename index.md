@@ -3,6 +3,7 @@ layout: page
 title: "Tu asistente para el ratón"
 
 ---
+
  *Mouse Helper* es un programa gratuito que funciona en el sistema operativo Windows (7 en adelante), y que te ayudará a mejorar el manejo con el ratón.  
 
 * <span >[Qué es y cómo funciona](#features)</span>  
