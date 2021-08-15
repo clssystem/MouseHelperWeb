@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 title: MiniHelpers Features
 sections:

@@ -1,4 +1,4 @@
-﻿---
+---
 lang: es
 title: Descarga MouseHelper
 sections:

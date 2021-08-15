@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 title: Mouse Helper Features
 sections:

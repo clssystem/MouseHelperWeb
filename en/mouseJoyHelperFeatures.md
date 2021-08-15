@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 title: MouseJoyHelper Features
 sections:

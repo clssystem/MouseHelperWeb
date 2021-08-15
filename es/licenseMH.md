@@ -1,4 +1,4 @@
-﻿---
+---
 lang: es
 title: Licencia
 seo:

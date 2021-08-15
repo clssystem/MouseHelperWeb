@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 title: KeyBoardHelper & MouseKeysHelper Features
 sections:

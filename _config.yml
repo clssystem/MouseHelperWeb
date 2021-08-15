@@ -3,7 +3,7 @@ lang: es
 title: 'MouseHelper'
 domain: 'https://aliberal.github.io/enthusiastic-petunia-43d2d'
 baseurl: /
-permalink: '/:title/:lang'
+permalink: '/:lang/:name'
 collections:
   posts:
     permalink: '/posts/:title/' 

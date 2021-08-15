@@ -1,4 +1,4 @@
-﻿---
+---
 lang: es
 title: Características de Mouse Helper
 sections:

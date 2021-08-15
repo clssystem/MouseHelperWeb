@@ -1,4 +1,4 @@
-﻿---
+---
 lang: es
 title: Acknowledgments and attributions
 subtitle: >-
