@@ -21,7 +21,7 @@
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
-layout: page
+ layout: page
 ---
 
 You can contact with me throug the following means:

@@ -1,5 +1,5 @@
 ---
-lang: es
+lang: en
 title: Acknowledgments and attributions
 subtitle: >-
   Thank you!
