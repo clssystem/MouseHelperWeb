@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\en",
     "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\en\\acknowledgments.md",
   "PreviewInSolutionExplorer": false
 }

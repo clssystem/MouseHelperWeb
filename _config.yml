@@ -1,7 +1,7 @@
 ﻿#prueba de cambio
 lang: es
 title: 'MouseHelper'
-domain: 'https://aliberal.github.io/enthusiastic-petunia-43d2d'
+domain: 'https://www.mousesuite.cls-system.es'
 baseurl: /
 permalink: '/:lang/:name'
 collections:
@@ -10,15 +10,15 @@ collections:
 base_font: nunito-sans
 palette: orange
 header:
-  logo_clsSystem: /:pagelang:/images/byClsSystem.png
-  logo_img: /:pagelang:/images/logo.png
+  logo_clsSystem: /:pagelang:/images/byClsSystem.svg
+  logo_img: /:pagelang:/images/logo.svg
   logo_img_alt: Logo
   has_nav: true
   nav_languages:
     - label: ES
       url: /es
       style: language
-    - label: EN
+    - label: EN 
       url: /en
       style: language
     - label: EU
@@ -157,4 +157,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-favicon: /:pagelang:/images/favicon.ico
+#favicon: /:pagelang:/images/favicon.svg

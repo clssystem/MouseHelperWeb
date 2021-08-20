@@ -3,31 +3,8 @@ lang: en
 title: Mentions in the media
 description: "Mouse Helper mentions in the media"
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Stackbit Azimuth Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
-      keyName: property
-    - name: 'og:image'
-      value: :pagelang:/images/hero.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
-    - name: 'twitter:description'
-      value: The preview of the Azimuth theme
-    - name: 'twitter:image'
-      value: :pagelang:/images/hero.png
-      relativeUrl: true
+  title: Mentions in the media
+  description: A software created by ClsSystem to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease
 layout: page
 ---
 

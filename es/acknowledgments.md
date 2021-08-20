@@ -5,32 +5,6 @@ subtitle: >-
   ¡Gracias!
 image: /:pagelang:/images/thanks.png
 image_alt: Thank you
-seo:
-  title: Gracias
-  description: This is the about page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About Me
-      keyName: property
-    - name: 'og:description'
-      value: This is the about page
-      keyName: property
-    - name: 'og:image'
-      value: /:pagelang:/images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Me
-    - name: 'twitter:description'
-      value: This is the about page
-    - name: 'twitter:image'
-      value: /:pagelang:/images/about.jpg
-      relativeUrl: true
 layout: page
 ---
 

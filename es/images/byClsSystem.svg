@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.99783mm"
+   height="24.121006mm"
+   viewBox="0 0 100.99783 24.121006"
+   version="1.1"
+   id="svg143123"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="byClsSystem.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview143125"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="0.3884119"
+     inkscape:cx="-19.309398"
+     inkscape:cy="104.27075"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="false" />
+  <defs
+     id="defs143120" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.4277616,-6.4683046)">
+    <text
+       xml:space="preserve"
+       style="font-size:8.19913px;line-height:1.25;font-family:'Amstrad CPC464';-inkscape-font-specification:'Amstrad CPC464';fill:#3f48cc;fill-opacity:1;stroke-width:0.204979"
+       x="4.4277616"
+       y="15.667435"
+       id="text156394"><tspan
+         sodipodi:role="line"
+         id="tspan156392"
+         style="fill:#3f48cc;fill-opacity:1;stroke-width:0.204979"
+         x="4.4277616"
+         y="15.667435">by</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Amstrad CPC464';-inkscape-font-specification:'Amstrad CPC464';fill:#3f48cc;fill-opacity:1;stroke-width:0.264583"
+       x="41.248714"
+       y="29.58931"
+       id="text171726"><tspan
+         sodipodi:role="line"
+         id="tspan171724"
+         style="fill:#3f48cc;fill-opacity:1;stroke-width:0.264583"
+         x="41.248714"
+         y="29.58931">System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Amstrad CPC464';-inkscape-font-specification:'Amstrad CPC464';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="13.854855"
+       y="29.631874"
+       id="text180200"><tspan
+         sodipodi:role="line"
+         id="tspan180198"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="13.854855"
+         y="29.631874">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Amstrad CPC464';-inkscape-font-specification:'Amstrad CPC464';fill:#00b050;fill-opacity:1;stroke-width:0.264583"
+       x="22.13876"
+       y="29.631874"
+       id="text181986"><tspan
+         sodipodi:role="line"
+         style="fill:#00b050;fill-opacity:1;stroke-width:0.264583"
+         x="22.13876"
+         y="29.631874"
+         id="tspan181988">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Amstrad CPC464';-inkscape-font-specification:'Amstrad CPC464';fill:#00b0f0;fill-opacity:1;stroke-width:0.264583"
+       x="30.61108"
+       y="29.504158"
+       id="text182302"><tspan
+         sodipodi:role="line"
+         id="tspan182300"
+         style="fill:#00b0f0;fill-opacity:1;stroke-width:0.264583"
+         x="30.61108"
+         y="29.504158">s</tspan></text>
+  </g>
+</svg>
