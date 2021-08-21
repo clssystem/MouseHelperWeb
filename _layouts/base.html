@@ -1,12 +1,20 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}">
     <head>    
-        
-    <link rel="alternate" hreflang="x-default" href="{{ site.domain | trim: '/' | append: rel_url }}{{ page.url | replace:'index.html','' | replace: '/en/', '/es/' | replace: '/eu/', '/es/' | replace: '/es/', '/' | trim: '/' }}es/" />
-    <link rel="alternate" hreflang="es" href="{{ site.domain | append: rel_url }}{{ page.url | replace:'index.html','' | replace: '/en/', '/es/' | replace: '/eu/', '/es/' | replace: '/es/', '/'}}es/" />
-    <link rel="alternate" hreflang="es-EU" href="{{ site.domain | append: rel_url }}{{ page.url | replace:'index.html','' | replace: '/en/', '/es/' | replace: '/eu/', '/es/' | replace: '/es/', '/'}}eu/" />
-    <link rel="alternate" hreflang="en"  href="{{ site.domain | append: rel_url }}{{ page.url | replace:'index.html','' | replace: '/en/', '/es/' | replace: '/eu/', '/es/' | replace: '/es/', '/'}}en/" />
 {% include language.html %}
+
+        <!-- Hrefs -->  
+        {%assign my_pagelang = '/' | append: pagelang | append: '/' %}
+{% if page.url == "/" %}
+        {% assign my_page = page.url | append: pagelang | append: '/' | absolute_url%}
+{% else %}
+        {% assign my_page = page.url %}
+{% endif %}
+        {% assign my_page =  my_page | replace: my_pagelang, '=LANG=' %}
+    <link my="{{my_page }}" rel="alternate" hreflang="x-default" href="{{my_page | replace: '=LANG=', '/es/' | absolute_url}}" />
+    <link rel="alternate" hreflang="es"  href="{{my_page | replace: '=LANG=', '/es/' | absolute_url}}" />
+    <link rel="alternate" hreflang="eu" href="{{my_page | replace: '=LANG=', '/eu/' | absolute_url}}" />
+    <link rel="alternate" hreflang="en" href="{{my_page | replace: '=LANG=', '/en/' | absolute_url}}" />
 
 
         <title>{% assign title_is_not_empty = page.seo.title | is_not_empty %}{% if title_is_not_empty %}{{ page.seo.title }}{% else %}{{ page.title | append: ' | ' | append: site.title }}{% endif %}</title>

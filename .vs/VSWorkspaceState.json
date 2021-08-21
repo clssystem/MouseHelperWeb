@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\en",
-    "\\_includes",
-    "\\_layouts"
+    "\\en\\images",
+    "\\js",
+    "\\_layouts",
+    "\\_plugins"
   ],
-  "SelectedNode": "\\en\\acknowledgments.md",
+  "SelectedNode": "\\_layouts\\base.html",
   "PreviewInSolutionExplorer": false
 }

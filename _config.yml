@@ -2,6 +2,7 @@
 lang: es
 title: 'MouseHelper'
 domain: 'https://www.mousesuite.cls-system.es'
+url: 'https://www.mousesuite.cls-system.es'
 baseurl: /
 permalink: '/:lang/:name'
 collections:
@@ -144,6 +145,7 @@ plugins:
   - jekyll-menus
   - jekyll-paginate-v2
   - jekyll-paginate
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
