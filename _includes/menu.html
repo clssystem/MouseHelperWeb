@@ -17,7 +17,7 @@
                   {% assign action_style = action.style | default: 'link' %}
                   <li class="menu-item{% if page_url == action_url %} current-menu-item{% endif %} {% if action_style != 'link'%}menu-button{% endif %}">
 
-                      {% include action.html action=action %}
+                      {% include action.html action=action action_url = action_url %}
                   </li>
                   {% endfor %}
               </ul>

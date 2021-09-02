@@ -15,6 +15,7 @@
     <link rel="alternate" hreflang="es"  href="{{my_page | replace: '=LANG=', '/es/' | absolute_url}}" />
     <link rel="alternate" hreflang="eu" href="{{my_page | replace: '=LANG=', '/eu/' | absolute_url}}" />
     <link rel="alternate" hreflang="en" href="{{my_page | replace: '=LANG=', '/en/' | absolute_url}}" />
+    <link rel="alternate" hreflang="fr" href="{{my_page | replace: '=LANG=', '/fr/' | absolute_url}}" />
 
 
         <title>{% assign title_is_not_empty = page.seo.title | is_not_empty %}{% if title_is_not_empty %}{{ page.seo.title }}{% else %}{{ page.title | append: ' | ' | append: site.title }}{% endif %}</title>
@@ -68,7 +69,6 @@
         
     </head>
     <body class="palette-{{ site.palette }} font-{{ site.base_font }}">
-        
         {{ content }}
         <!-- Scripts -->
         <script src="{{ 'js/plugins.js' | relative_url }}"></script>

@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Mouse Helper
+title: Mouse Helper, tu asistente para el ratón
 description: Software gratuito de ClsSystem para mejorar el manejo del mouse en Windows, para personas con discapacidad motora como la enfermedad de Parkinson
 sections:
   - section_id: main
@@ -97,7 +97,7 @@ sections:
         url: https://www.anapar.org/socio/haz-un-donativo/
         style: primary
 seo:
-  title: Mouse Helper
+  title: Mouse Helper, tu asistente para el ratón
   description: Software gratuito de ClsSystem para mejorar el manejo del mouse en Windows, para personas con discapacidad motora como la enfermedad de Parkinson
   extra:
     - name: 'og:type'

@@ -38,3 +38,23 @@
   - label: Make a Donation
     url: https://www.anapar.org/socio/haz-un-donativo/
     style: primary
+- language: 'fr'
+  nav_links:
+  - label: Home
+    url: '/fr/'
+    style: link
+  - label: Télécharger
+    url: '/fr/download'
+    style: link
+  - label: Media
+    url: /fr/media
+    style: link  
+    has_icon: false
+    icon: arrow-left
+    icon_position: left
+    new_window: false
+    no_follow: false
+    type: action
+  - label: Faire un don!
+    url: https://www.anapar.org/socio/haz-un-donativo/
+    style: primary

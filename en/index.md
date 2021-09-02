@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Mouse Helper
+title: Mouse Helper, your mouse assistant
 description: A software created by ClsSystem to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease
 sections:
   - section_id: main
@@ -98,7 +98,7 @@ sections:
         url: https://www.anapar.org/socio/haz-un-donativo/
         style: primary
 seo:
-  title: Mouse Helper
+  title: Mouse Helper, your mouse assistant
   description: A software created by ClsSystem to improve mouse handling in Windows, for people with motor disabilities such as Parkinson's disease
   extra:
     - name: 'og:type'

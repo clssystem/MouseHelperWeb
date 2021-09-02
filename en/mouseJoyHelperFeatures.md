@@ -61,8 +61,8 @@ sections:
 
       
 seo:
-  title: Características de MouseJoyHelper
-  description: Características de MouseJoyHelper
+  title: MouseJoyHelper Features
+  description: MouseJoyHelper Features
   extra:
     - name: 'og:type'
       value: website

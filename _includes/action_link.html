@@ -4,6 +4,7 @@
 {% assign action_icon = action.icon | default: 'arrow-left' %}
 {% assign action_icon_pos = action.icon_position | default: 'left' %}
 {% assign action_url = action.url | replace: ':pagelang:', pagelang %}
+{% assign action_url = include.action_url %}
 {% assign rel_url = action_url | relative_url %}
 
 {% assign full_url = rel_url %}
