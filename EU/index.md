@@ -58,7 +58,7 @@ Bestelakorik adierazi ezean, Mouse Helper zerbitzuan sartutako dokumentazio eta 
 
 Edonori baimena ematen zaio software hau irabazi asmorik gabeko helburuetarako erabiltzeko eta askatasun osoz birbanatzeko, betiere bere formatu bitarra aldatzen ez bada.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.eu_ES"><img alt="Creative Commons lizentzia" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />lan hau <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.eu_ES">Creative Commons Aitortu-EzKomertziala-PartekatuBerdin 4.0 Nazioartekoa lizentzia</a> baten mende dago.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.eu_ES"><img alt="Creative Commons lizentzia" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />lan hau <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.eu_ES">Creative Commons Aitortu-EzKomertziala-PartekatuBerdin 4.0 Nazioartekoa lizentzia</a> baten mende dago.
 
 Software hau "dagoen bezala" eskaintzen da inolako berme espresurik edo inpliziturik izan gabe.
 
@@ -84,7 +84,7 @@ Pozik egongo naiz zure galderei erantzuteko eta zure iradokizunak onartzeko.
 
 Programa hau doakoa izan daiteke exekutatu eta banatzeko, baina nahi baduzu, dohaintza bat egin diezaiokezu elkarte guztiei.
 
-Parkinsonen Elkartean, esaterako, [ANAPAR](http://www.anapar.org/) edo [Parkinsonaren Federazioan](https://www.esparkinson.es/) egitea gomendatzen dut :
+Parkinsonen Elkartean, esaterako, [ANAPAR](https://www.anapar.org/) edo [Parkinsonaren Federazioan](https://www.esparkinson.es/) egitea gomendatzen dut :
 
 <a href="https://www.anapar.org/socio/haz-un-donativo/"><img alt="donativo" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 

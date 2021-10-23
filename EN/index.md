@@ -62,7 +62,7 @@ This software is provided "as is" without any express or implied warranty. In no
 
 Permission is granted to anyone to use this software for any non-profit purpose, and to redistribute it freely, as long as its binary format is not altered.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
 Copyright (C) 2020 Antonio Liberal. All rights reserved.
@@ -85,7 +85,7 @@ You can also read [el diario de un parkinsoniano](https://diariodeunparkinsonian
 
 This sofware is free to run and distribute, but you can make a donation to any aid association if you feel like it.
 
-I suggest you to make it in a Parkinson's Association, such as [ANAPAR](http://www.anapar.org/) o la [ Parkinson's Federation](https://www.esparkinson.es/):
+I suggest you to make it in a Parkinson's Association, such as [ANAPAR](https://www.anapar.org/) o la [ Parkinson's Federation](https://www.esparkinson.es/):
 
 <a href="https://www.anapar.org/socio/haz-un-donativo/"><img alt="donation"  style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 

@@ -62,7 +62,7 @@ Excepto donde se indique lo contrario, toda la documentación y el software incl
 
 Se otorga permiso a cualquier persona para usar este software para cualquier propósito sin fines lucrativos, y para redistribuirlo libremente, mientras no se altere su formato binario.
  
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
 
 Este software se proporciona "tal cual", sin ninguna garantía expresa o implícita. 
 
@@ -90,7 +90,7 @@ También puedes leer [el diario de un parkinsoniano](https://diariodeunparkinson
 
 Este programa es de libre ejecución y distribución, pero puedes aportar un donativo a cualquier asociación de ayuda si te apetece.
 
-Te recomiendo que lo hagas en una Asociación de Parkinson, como [ANAPAR](http://www.anapar.org/) o la [Federación de Parkinson](https://www.esparkinson.es/):
+Te recomiendo que lo hagas en una Asociación de Parkinson, como [ANAPAR](https://www.anapar.org/) o la [Federación de Parkinson](https://www.esparkinson.es/):
 
 <a href="https://www.anapar.org/socio/haz-un-donativo/"><img alt="donativo" class="img-fluid" style="horizontal-align:middle" src="https://www.mousehelper.cls-system.es/assets/images/donativo.png"></a>      
 
