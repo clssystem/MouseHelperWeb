@@ -1,7 +1,7 @@
 ---
 layout: pageEU
 lang: eu_ES
-url: "https://www.mousehelper.cls-system.es/EU"
+url: "/EU"
 title: "Deskargen orria"
 description: "Deskargatu Mouse Helper erabat doakoa, betiere erabilera ez komertzialekin"
 ---
@@ -31,7 +31,7 @@ Jarraitu argibide hauek zure arakatzailearen arabera:
 ##### Microsoft Edge
 
 <div class="shadow-lg p-3 mb-5 bg-white rounded">
-<img  class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/HowToInstallEdge.gif">
+<img  class="img-fluid" alt="Mouse Helper" src="/assets/images/EU/HowToInstallEdge.gif">
 </div>
 
 Beste arakatzaile batzuentzat MouseHelper instalatzeko modua antzekoa da
@@ -39,6 +39,6 @@ Beste arakatzaile batzuentzat MouseHelper instalatzeko modua antzekoa da
 ##### <a name="manual"></a>Eskuzko instalazioa
 
 <div class="shadow-lg p-3 mb-5 bg-white" >
-<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/EU/HowToInstallManual.gif">
+<img class="img-fluid" alt="Mouse Helper" src="/assets/images/EU/HowToInstallManual.gif">
 </div>
 

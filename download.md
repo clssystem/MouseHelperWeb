@@ -27,7 +27,7 @@ Sigue estas instrucciones en función de tu navegador:
 ##### Microsoft Edge
 
 <div class="shadow-lg p-3 mb-5 bg-white" >
-<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/HowToInstallEdge.gif">
+<img class="img-fluid" alt="Mouse Helper" src="/assets/images/HowToInstallEdge.gif">
 </div>
 Para otros navegadores la forma de instalar MouseHelper es similar
 
@@ -35,6 +35,6 @@ Para otros navegadores la forma de instalar MouseHelper es similar
 ##### <a name="manual"></a>Instalación manual
 
 <div class="shadow-lg p-3 mb-5 bg-white" >
-<img class="img-fluid" alt="Mouse Helper" src="https://www.mousehelper.cls-system.es/assets/images/HowToInstallManual.gif">
+<img class="img-fluid" alt="Mouse Helper" src="/assets/images/HowToInstallManual.gif">
 </div>
 
