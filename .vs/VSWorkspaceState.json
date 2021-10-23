@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\en",
     "\\en\\images",
+    "\\fr",
     "\\js",
+    "\\_data",
+    "\\_includes",
     "\\_layouts",
     "\\_plugins"
   ],
-  "SelectedNode": "\\_layouts\\base.html",
+  "SelectedNode": "\\fr",
   "PreviewInSolutionExplorer": false
 }
