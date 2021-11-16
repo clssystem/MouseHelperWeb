@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MouseHelperWeb",
-    "\\_includes",
-    "\\_layouts"
+    "\\assets\\images",
+    "\\_site",
+    "\\_site\\es"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\_site\\es",
   "PreviewInSolutionExplorer": false
 }
