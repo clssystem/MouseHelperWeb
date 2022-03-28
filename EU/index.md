@@ -9,6 +9,8 @@ description: "Windows-en saguaren manipulazioa hobetzeko laguntza-softwarea, esa
 
 * <span >[Zer da eta nola funtzionatzen duen](#features)</span>  
         Ikusi saguaren laguntzailea zuretzat zer egin dezakezun.
+* <span >[Tutorialak](tutorials.html)</span>  
+        Ikusi MouseHelper-ek nola funtzionatzen duen tutorial pare baten bidez (gazteleraz)
 * <span >[Komunikabideen aipamenak](/mentions.html)</span>  
          Irakurri komunikabideek Mouse Helperri buruz esaten dutena.
 * <span >[Pantailak](#screenshot)</span>  

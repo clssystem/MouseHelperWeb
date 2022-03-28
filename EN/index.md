@@ -9,6 +9,8 @@ description: "Help software to improve mouse handling in Windows, for people wit
 
 * <span >[What it is and how it works](#features)</span>  
         Learn what Mouse Helper can do for you.
+* <span >[Tutorials](tutorials.html)</span>  
+        See how MouseHelper works through a couple of tutorials (in Spanish)
 * <span >[Mentions in the media](mentions.html)</span>  
         Read what the media says about Mouse Helper (in Spanish)
 * <span >[Screenshots](#screenshot)</span>  

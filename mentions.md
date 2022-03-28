@@ -15,25 +15,11 @@ description: "Menciones de Mouse Helper en los medios de comunicación"
 ##### Acto y charla posterior sobre MouseHelper
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com//embed/v=Kp6AFef-_zw?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/vX6Z-mYU_kw?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen></iframe>
 </div>
 
+
 <p></p>
-
-##### Artículos destacados
-* [diario de navarra](https://www.diariodenavarra.es/noticias/negocios/dn-management/personas/2021/11/09/antonio-liberal-afectado-parkinson-nombrado-ingeniero-telecomunicacion-ano-navarra-506907-3381.html)
-* [noticias de navarra](https://www.noticiasdenavarra.com/actualidad/sociedad/2021/11/09/antonio-liberal-programador-afectado-parkinson/1198851.html)
-* [agencia EFE](https://www.efe.com/efe/espana/sociedad/los-ordenadores-aprenden-a-no-tener-en-cuenta-temblores-del-parkinson/10004-4674190)
-* [cope](https://www.cope.es/actualidad/sociedad/noticias/los-ordenadores-aprenden-tener-cuenta-los-temblores-del-parkinson-20211112_1614051)
-* [correo gallego](https://www.elcorreogallego.es/tendencias/aprenden-los-ordenadores-a-no-hacer-caso-a-los-temblores-del-parkinson-NY9562681)
-* [cermin](https://cermin.org/antonio-liberal-afectado-de-parkinson-nombrado-ingeniero-de-telecomunicacion-del-ano-por-disenar-un-programa-para-manejar-el-raton-del-ordenador-superando-los-temblores/)
-* [el diario.es](https://www.eldiario.es/sociedad/ordenadores-aprenden-no-cuenta-temblores-parkinson_1_8483267.html)
-* [naiz](https://www.naiz.eus/es/gaiak/noticia/20211112/un-ingeniero-doma-al-raton-del-ordenador-para-que-lo-puedan-usar-personas-con-parkinson)
-* [andalucia información](https://andaluciainformacion.es/marbella/1008138/los-ordenadores-aprenden-a-no-tener-en-cuenta-los-temblores-del-parkinson/)
-* [viva sevilla](https://vivasevilla.es/sevilla/1008138/los-ordenadores-aprenden-a-no-tener-en-cuenta-los-temblores-del-parkinson/)
-* [san fernando información](https://informacionsanfernando.es/san-fernando/1008138/los-ordenadores-aprenden-a-no-tener-en-cuenta-los-temblores-del-parkinson/)
-
-
 
 #### 11/11/2020
 
