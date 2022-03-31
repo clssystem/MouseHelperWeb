@@ -10,7 +10,7 @@ sections:
     download_plans:
       - title: 'MouseHelper.exe'
         subtitle: Windows 7 (y superior)
-        price: 'Instalador independiente v.3.0.0'
+        price: 'Instalador independiente v.2.1.1'
         details: >
           Haz clic en el botón inferior para descargar la última versión del instalador de MouseHelper
         highlight: true

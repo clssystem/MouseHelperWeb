@@ -10,7 +10,7 @@ sections:
     download_plans:
       - title: 'MouseHelper.exe'
         subtitle: Windows 7 (and above)
-        price: 'Standalone Installer v.3.0.0'
+        price: 'Standalone Installer v.2.2.1'
         details: >
           Click on the button below to download the latest version of Mouse
           Helper Installer

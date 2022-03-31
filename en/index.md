@@ -5,13 +5,11 @@ description: A software created by ClsSystem to improve mouse handling in Window
 sections:
   - section_id: main
     type: section_hero
-    image: /:pagelang:/images/welcome.png
-    image_alt: Bienvenido a Mouse Helper, tu asistente para el ratón
-    title: Mouse Helper 3.0
+    image: /:pagelang:/images/MouseHelper/0.png
+    image_alt: Welcome to Mouse Helper, your mouse assistant
+    title: Mouse Helper
     content: >-
-        ***MouseHelper*** is a free software suite of little helpers, which is available for Windows Operating System (7 and above)
-         
-        The original ***MouseHelper*** v2.0 has been joined by more helpers this time, allowing you to improve mouse and keyboard handling
+        ***MouseHelper*** is a free software for Windows Operating System (7 and above) that will help you to improve your handling with the mouse
     actions:
       - label: Download
         url: /:pagelang:/download
@@ -26,66 +24,55 @@ sections:
         url: https://www.anapar.org/socio/haz-un-donativo/
         style: secondary
   - section_id: features
-    type: section_features
+    type: section_content
     background: gray
-    title: Features
-    subtitle: >-
-      Improves mouse and keyboard stability even if your hand is shaking
-    features:
-      - title: MouseHelper
-        image: /:pagelang:/images/MouseHelper/0.png
-        image_alt: Control the mouse pointer
-        content: >-
-          With ***MouseHelper*** you can control the speed of the mouse, the time it takes to press its buttons or drag and drop operations
-        actions:
-          - label: Learn more
-            url: /:pagelang:/mouseHelperFeatures
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: MouseJoyHelper
-        image: /:pagelang:/images/MouseJoyHelper/0.png
-        image_alt: MouseJoyHelper
-        content: >-
-          With ***MouseJoyHelper*** you can control the mouse with a joystick
+    image: /:pagelang:/images/MouseHelper/1.png
+    image_alt: MouseHelper settings to help with mouse mobility issues
+    title:  
+    content: >-
+      Having trouble moving the mouse pointer?
 
-        actions:
-          - label: Learn more
-            url: /:pagelang:/mouseJoyHelperFeatures
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: KeyBoardHelper & MouseKeysHelper
-        image: /:pagelang:/images/KeyBoardHelper/0.png
-        image_alt: KeyBoardHelper & MouseKeysHelper
-        content: >-
-          With ***KeyBoardHelper*** & ***MouseKeysHelper***  you will control the keystrokes and move the mouse using your keyboard
-        actions:
-          - label: Learn more
-            url: /:pagelang:/keyboardHelperFeatures
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: MiniHelpers
-        image: /:pagelang:/images/MiniHelpers/0.png
-        image_alt: MiniHelpers
-        content: >-
-          The ***MiniHelpers*** are small components that allow you to perform tasks more specialized, and make the most of all the buttons on your joystick
-        actions:
-          - label: Learn more
-            url: /:pagelang:/miniHelperFeatures
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Configure it to your liking
-        image: /:pagelang:/images/Configuration/0.png
-        image_alt: Setup screen
-        content: >-
-          ***MouseHelper*** allows you to choose the language, decide whether or not you want it to start when Windows does it or even run it in Administrator mode, to do it without restrictions
+
+      Make the mouse adapt to you, and not the other way around!
+    
+
+      * Easily increase or decrease mouse speed under normal conditions.
+
+      * Set another speed when pressing the Ctrl or Alt keys to work as a throttle or a brake
+      
+      * If you still cannot control the mouse and it shakes too much, you can soften the movement by selecting the resistance to movement
+      
+
+  - section_id: features
+    type: section_content
+    background: gray
+    image: /:pagelang:/images/MouseHelper/2.png
+    image_alt: MouseHelper configuration to help with mouse click problems
+    title:  
+    content: >-
+      Are you having trouble clicking the mouse buttons?
+
+
+      * Choose the button or buttons that give you problems.
+      
+      * Select the minimum time you must press and hold the button for it to generate a click.
+
+      * And finally select the speed of the double click.
+      
+  - section_id: features
+    type: section_content
+    background: gray
+    image: /:pagelang:/images/MouseHelper/3.png
+    image_alt: MouseHelper configuration to help with drag & drop problems
+    title:  
+    content: >-
+      Problems with dragging and dropping files?
+
+
+      Have you accidentally moved a site file or folder?
+
+
+      ***MouseHelper*** will let you avoid it!
   - section_id: make-a-donation
     type: section_cta
     title: ¡Make a Donation!

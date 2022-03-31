@@ -1,8 +1,8 @@
 ﻿#prueba de cambio
 lang: es
 title: 'MouseHelper'
-domain: 'https://www.mousesuite.cls-system.es'
-url: 'https://www.mousesuite.cls-system.es'
+domain: 'https://www.mousehelper.cls-system.es'
+url: 'https://www.mousehelper.cls-system.es'
 url_download_exe: 'http:///clssystem/MouseHelperReleases/releases/latest/download/MouseHelper.exe'
 url_download_zip:
 baseurl: /
