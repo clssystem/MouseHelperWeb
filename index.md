@@ -7,7 +7,7 @@ sections:
     type: section_hero
     image: /:pagelang:/images/MouseHelper/0.png
     image_alt: Bienvenido a Mouse Helper, tu asistente para el ratón
-    title: Mouse Helper 2.0
+    title: Mouse Helper
     content: >-
        ***MouseHelper*** es un programa gratuito que funciona en el sistema operativo Windows (7 en adelante), y que te ayudará a mejorar el manejo con el ratón
     actions:
