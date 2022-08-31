@@ -21,7 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-google_analytics: UA-175471186-1
+google_analytics: G-GWDXQZPF3P
 
 # A list of the pages to display in the navigation bar
 header_pages:
